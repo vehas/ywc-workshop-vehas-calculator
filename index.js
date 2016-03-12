@@ -1,0 +1,7 @@
+console.log('------------------------')
+var calculator = require('./calculator')
+console.log('start with 10, 20')
+console.log('add ' + calculator.add(10, 20))
+console.log('minus ' + calculator.minus(10, 20))
+console.log('multiply ' + calculator.multiply(10, 20))
+console.log('divide ' + calculator.divide(10, 20))
