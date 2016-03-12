@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "",
   "main": "calculator.js",
+  "repository": "https://github.com/vehas/ywc-workshop-vehas-calculator",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
